@@ -1,0 +1,151 @@
+# HELLO WORLD
+-------------
+	
+* What is C#?
+-------------
+	What would you like to build? If you can name it, you can probably build it with C#.
+
+	This programming language can be used to make interactive websites, mobile apps, video games, augmented reality (AR), virtual reality (VR), desktop applications, and back-end 
+	services – just to name a few. For example, the mobile game Pokemon Go and the Stack Overflow website were built with frameworks that can be run with C# (Unity and ASP.NET, 
+	respectively).
+
+	Even if you already know a programming language, learning C# (pronounced “cee sharp”) can make you a better programmer:
+
+		. Unlike languages like Ruby and JavaScript, C# has you define the type of each data in a program. Assigning a type essentially tells a computer what operations can and 
+		cannot be performed on a piece of data. This style of coding helps programmers avoid a large class of errors that are common to Ruby and JavaScript .
+
+		. If you’re familiar with Java, you’ll recognize how C# programs are built—by defining objects that interact with each other, which makes code reusable and easy to 
+		manage.
+
+==================================================================================================================================================================
+
+* Run Some C#
+-------------
+	Time to run some C# yourself!
+
+	There are two panels here: a text editor containing some C# code and a console, or terminal, that shows output. When you run the code, you’ll see some text printed to the console.
+
+	The code is contained in a file called Program.cs. For now, just focus on the line:
+
+		Console.WriteLine("Hello World!");
+
+	Console.WriteLine() is a command that prints text to a console. Whatever is in between the parentheses will be printed to the console! In this case it’s Hello World!.
+
+Program.cs
+----------
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main()
+    {
+      Console.WriteLine("Hello World!");    
+     }
+  }
+}
+ 
+==================================================================================================================================================================
+
+* Getting Input
+---------------
+	We can also read input from a user. The command Console.ReadLine() captures text that a user types into the console. 
+
+		Program: How old are you? User: 16 Program: You are 16 years old!
+
+	In this example, the program writes a question to the console and waits for user input. Once the user types something and presses Enter (or Return), the input is printed back out 
+	to the user. 
+
+		Console.WriteLine("How old are you?");
+		string input = Console.ReadLine();
+		Console.WriteLine($"You are {input} years old!");
+
+	The word input represents a variable (variables are explored more in other lessons). For now, know that the word input represents the text the user typed in the console. It’s 
+	labeled string because, in C#, a piece of text is called a string. 
+
+	input is used in the following line so that the printed message will change based on what the user types. For example, if you ran the program and responded to the question with 
+	101, then the value of input would be "101" and You are 101 years old! would be printed to the console.
+
+Program.cs
+----------
+using System;
+
+namespace GettingInput
+{
+  class Program
+  {
+    static void Main()
+    {
+      Console.WriteLine("How old are you?");
+      string input = Console.ReadLine();
+      Console.WriteLine($"You are {input} years old!");
+    }
+  }
+}
+
+==================================================================================================================================================================
+
+* Comments
+----------
+	Ironically, an essential tool in programming is the ability to tell a computer to ignore a part of a program. Text written in a program but not run by the computer is called a 
+	comment. In C#, anything after a // or between /* and */ is a comment. In spoken word we call these symbols “forward slashes” and “asterisks”.
+
+	Comments can:
+
+		. Provide context for why something is written the way it is:
+
+			/* This variable will be used to count the number of times anyone tweets the word persnickety */
+			int persnicketyCount = 0;
+
+		. Help other people reading the code understand it faster:
+
+			/* Calculates tomorrow's rain likelihood as a number between 0 and 100 */
+			ComplicatedRainCalculationForTomorrow();
+
+		. Ignore a line of code and see how a program will run without it:
+
+			// string usefulValue = OldSloppyCode();
+			string usefulValue = NewCleanCode();
+
+	Developers tend to use // for short, one-line comments and /* */ for anything longer, but the choice is up to you!
+
+Program.cs
+----------
+using System;
+
+namespace GettingInput
+{
+  class Program
+  {
+    static void Main()
+    {
+      /* This program reads input from the user, and 
+         assigns it to the input variable.  Then the 
+         program print a message that includes the input
+         variable.
+      */
+      Console.WriteLine("How old are you?");
+      string input = Console.ReadLine();
+      Console.WriteLine($"You are {input} years old!");
+    }
+  }
+}
+
+==================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
