@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\bin\Debug\net7.0\project-console-creatures.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\bin\Debug\net7.0\project-console-creatures.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\bin\Debug\net7.0\project-console-creatures.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\bin\Debug\net7.0\project-console-creatures.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\bin\Debug\net7.0\project-console-creatures.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\refint\project-console-creatures.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\project-console-creatures.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# HELLO WORLD\project-console-creatures\obj\Debug\net7.0\ref\project-console-creatures.dll
